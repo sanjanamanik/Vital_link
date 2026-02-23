@@ -1,0 +1,14 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello"],
+      "responses": ["Hello! How can I help with your health?"]
+    },
+    {
+      "tag": "health_advice",
+      "patterns": ["period pain", "cancer symptoms"],
+      "responses": ["Consult a doctor. Here's general advice..."]
+    }
+  ]
+}
